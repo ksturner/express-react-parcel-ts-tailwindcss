@@ -23,6 +23,7 @@
     },
     "scripts": {
         "build": "./build.sh",
-        "check": "tsc --noEmit"
+        "check": "tsc --noEmit",
+        "clean": "./clean.sh"
     }
 }
