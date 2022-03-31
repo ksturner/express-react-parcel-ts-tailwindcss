@@ -1,0 +1,7 @@
+{
+    "include": ["front/**/*.tsx?", "back/**/*.tsx?"],
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "jsxImportSource": "react"
+    }
+}
